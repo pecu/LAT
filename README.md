@@ -1,4 +1,4 @@
-# LDS
+# LAT (Learning Analytics Tools)
 國立臺灣師範大學 - 學習分析工具實務應用 (Learning Analytics Tools Implementation Applications)
 
 - 授課教師：蔡芸琤 (Pecu)、鍾祥仁 (Ryan)
