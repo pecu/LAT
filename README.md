@@ -3,7 +3,7 @@
 
 - 授課教師：蔡芸琤 (Pecu)、鐘祥仁 (Ryan)
 - 助教群：
-    * 紀柔安，國立臺灣大學語言所一年級，OfficeHour：待討論
+    * [紀柔安](https://github.com/lowannann)，國立臺灣大學語言所一年級，OfficeHour：待討論
     * [張乃云](https://github.com/41071119H-Irene/PL)，國立臺灣師範大學科技系二年級，OfficeHour：待討論
     * [簡珮軒](https://github.com/cpeggy/PL)，國立臺灣師範大學科技系二年級，OfficeHour：待討論
     * [柯幸孜](https://github.com/Hsing-Tzu/PL)，國立臺灣師範大學科技系二年級，OfficeHour：待討論
