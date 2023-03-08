@@ -8,6 +8,9 @@
     * [簡珮軒](https://github.com/cpeggy/PL)，國立臺灣師範大學科技系二年級
     * [柯幸孜](https://github.com/Hsing-Tzu/PL)，國立臺灣師範大學科技系二年
     * [蔡昱宏](https://github.com/AndersonTsaiTW/PL-Repo)，國立臺灣師範大學科技系程式語言選讀生
+
+- 作業參考：
+    * [作業一](./HW1/HW1.ipynb)
     
 - 共學時間表：
 
