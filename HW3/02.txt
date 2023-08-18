@@ -1,0 +1,121 @@
+
+
+Citation: Mystakidis, S. Metaverse.
+Encyclopedia 2022, 2, 486–497.
+https://doi.org/10.3390/
+encyclopedia2010031
+Academic Editors: Ahmad
+Taher Azar and Raffaele Barretta
+Received: 28 December 2021
+Accepted: 9 February 2022
+Published: 10 February 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affil-
+iations.
+Copyright: © 2022 by the author.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Entry
+Metaverse
+Stylianos Mystakidis 1,2
+1 School of Natural Sciences, University of Patras, 26504 Patras, Greece; smyst@upatras.gr
+2 School of Humanities, Hellenic Open University, 26335 Patras, Greece
+Definition: The Metaverse is the post-reality universe, a perpetual and persistent multiuser environ-
+ment merging physical reality with digital virtuality. It is based on the convergence of technologies
+that enable multisensory interactions with virtual environments, digital objects and people such as
+virtual reality (VR) and augmented reality (AR). Hence, the Metaverse is an interconnected web of
+social, networked immersive environments in persistent multiuser platforms. It enables seamless
+embodied user communication in real-time and dynamic interactions with digital artifacts. Its first
+iteration was a web of virtual worlds where avatars were able to teleport among them. The contem-
+porary iteration of the Metaverse features social, immersive VR platforms compatible with massive
+multiplayer online video games, open game worlds and AR collaborative spaces.
+Keywords: metaverse; mixed reality; virtual reality; augmented reality; extended reality; virtual
+worlds; multiuser virtual environments
+1. Introduction
+Computer Science innovations play a major role in everyday life as they change and
+enrich human interaction, communication and social transactions. From the standpoint of
+end users, three major technological innovation waves have been recorded centered around
+the introduction of personal computers, the Internet and mobile devices, respectively. Cur-
+rently, the fourth wave of computing innovation is unfolding around spatial, immersive
+technologies such as Virtual Reality (VR) and Augmented Reality (AR) [ 1]. This wave is ex-
+pected to form the next ubiquitous computing paradigm that has the potential to transform
+(online) education, business, remote work and entertainment. This new paradigm is the
+Metaverse. The word Metaverse is a closed compound word with two components: Meta
+(Greek prefix meaning post, after or beyond) and universe. In other words, the Metaverse is
+a post-reality universe, a perpetual and persistent multiuser environment merging physical
+reality with digital virtuality. Regarding online distance education, Metaverse has the
+potential to remedy the fundamental limitations of web-based 2D e-learning tools.
+Education is one crucial field for society and economy where core implementation
+methods remain unchanged and orbiting around content transmission, classrooms and
+textbooks despite numerous technological innovations [ 2]. Currently, there is an intense
+race to construct the infrastructure, protocols and standards that will govern the Metaverse.
+Large corporations are striving to construct their closed, proprietary hardware and software
+ecosystems so as to attract users and become the de facto Metaverse destination. Different
+systemic approaches and diverging strategies collide around concepts such as openness
+and privacy. The outcome of this race will determine the level of users’ privacy rights
+as well as whether the Metaverse will be inclusive to students and school pupils. Both
+issues have important implications for education as they will determine if the Metaverse
+can become mainstream in e-learning. The aim of this article is to raise awareness about
+the origin and the affordances of the Metaverse, so as to formulate a unified vision for
+meta-education, Metaverse-powered online distance education.
+For this purpose, this article is structured as follows: Definitions of the key concepts
+are presented in Section 2. The limitations of two-dimensional learning environments are
+Encyclopedia 2022, 2, 486–497. https://doi.org/10.3390/encyclopedia2010031 https://www.mdpi.com/journal/encyclopedia
+Encyclopedia 2022, 2 487
+summarized in Section 3. A brief historical account of virtual media and VR technology
+is illustrated in Section 4. Next, in Section 5, the significance of virtual worlds and VR for
+education is presented. Section 6 is dedicated to contemporary Metaverse development,
+Meta-education and innovative applications. The conclusions are in the final Section 7.
+2. Extended, Virtual, Augmented and Mixed Reality
+Extended Reality or Cross Reality (XR) is an umbrella term that includes a series of
+immersive technologies; electronic, digital environments where data are represented and
+projected. XR includes Virtual Reality (VR), Augmented Reality (AR) and Mixed Reality
+(MR) [ 3]. In all the above-mentioned XR facets, humans observe and interact in a fully or
+partially synthetic digital environment constructed by technology.
+VR is an alternate, completely separate, digitally created, artificial environment. Users
+feel in VR that they are immersed, located in a different world and operate in similar
+ways just like in the physical surroundings [ 4]. With the help of specialized multisensory
+equipment such as immersion helmets, VR headsets and omnidirectional treadmills, this
+experience is amplified through the modalities of vision, sound, touch, movement and the
+natural interaction with virtual objects [5,6].
+AR adopts a different approach towards physical spaces; it embeds digital inputs,
+virtual elements into the physical environment so as to enhance it [ 7]. It spatially merges
+the physical with the virtual world [8]. The end outcome is a spatially projected layer of
+digital artifacts mediated by devices, e.g., smart phones, tablets, glasses, contact lenses or
+other transparent surfaces [9 ]. Moreover, AR can also be implemented in VR headsets with
+pass-through mode capability by displaying input from integrated camera sensors.
+MR is a more complex concept and its definition has fluctuated across time, reflect-
+ing the contemporary technological trends and dominant linguistic meanings and narra-
+tives [10 ]. MR is sometimes represented as an advanced AR iteration in the sense that
+the physical environment interacts in real time with the projected digital data [10 ]. For
+instance, a scripted non-player character in an MR game would recognize the physical
+surroundings and hide behind under a desk or behind a couch. Similar to VR, MR requires
+special glasses. However, for the purpose of this article, we accept the conception of MR
+as any combination of AR and VR as well as intermediate variations such as augmented
+virtuality [3 ]. The rationale behind this decision is the long-term technological evolution
+and maturation of AR to include interactive affordances. Therefore, AR and VR remain the
+two fundamental technologies and MR their combination.
+To comprehend and visualize how these immersive technologies interact with the
+environment, we point to Milgram and Kishino’s one-dimensional reality–virtuality con-
+tinuum [3 ]. This continuum is illustrated as a straight line with two ends. On the left
+extremum of the line there is the natural, physical environment. The right end marks the
+fully artificial, virtual environment that the user experiences instead of the physical one.
+Hence, AR is near the left end of the spectrum while VR occupies the right extremum. MR
+is a superset of both.
+Multimodal Metaverse Interactions
+The Metaverse is based on technologies that enable multisensory interactions with
+virtual environments, digital objects and people. The representational fidelity of the
+XR system is enabled by stereoscopic displays that are able to convey the perception of
+depth [ 11]. This is possible with separate and slightly different displays for each eye that
+replicate sight in physical environments [ 11 ]. XR displays with high resolutions activate a
+wide user field of view that can span from 90 to 180 degrees. XR systems also offer superior
+auditory experiences in comparison to 2D systems. 3D, spatial or binaural audio allows
+the construction of soundscapes that enhance immersion decisively in AR and VR [12 ].
+The spatial distribution of sound allows users to orientate themselves and identify the
+directions of sound cues, a powerful medium for navigation and user attention attraction.
